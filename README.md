@@ -33,6 +33,8 @@
     <p>💻 Coding • Automation • Bots</p>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1033745912071192688?hideProfile=true)](https://discord.com/users/1033745912071192688)
+
 <hr>
 
 <!-- STATS -->
